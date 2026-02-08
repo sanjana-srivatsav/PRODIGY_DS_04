@@ -93,7 +93,7 @@ Prodigy_DS_Task4/
 pip install pandas numpy matplotlib seaborn textblob
 
 ### **2. Run the script**
-- python task4_sentiment.py (Or)
+- python task4_sentiment.py (or)
 - open the notebook task4_sentiment.ipynb and run all cells.
 
 ---
