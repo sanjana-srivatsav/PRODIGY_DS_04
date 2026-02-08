@@ -11,8 +11,8 @@ Analyze and visualize sentiment patterns in social media data to understand publ
 
 ## **📁 Dataset**
 
-The dataset used is a **Twitter Airline Sentiment** Dataset, containing tweets about major U.S. airlines.
-Download Airline Tweet Sentiment Dataset (Kaggle): https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
+- The dataset used is a **Twitter Airline Sentiment** Dataset, containing tweets about major U.S. airlines.
+- Download Airline Tweet Sentiment Dataset (Kaggle): https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
 
 ### Key Columns:
 - text – Tweet content
